@@ -3,6 +3,14 @@
   "displayName": "Light Modern Thimo",
   "description": "Thimo's variation on the default Light Modern theme",
   "version": "0.0.1",
+  "publisher": "thimo",
+  "author": {
+    "name": "Thimo Jansen"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thimo/light-modern-thimo"
+  },
   "engines": {
     "vscode": "^1.86.0"
   },
