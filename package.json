@@ -1,0 +1,21 @@
+{
+  "name": "light-modern-thimo",
+  "displayName": "Light Modern Thimo",
+  "description": "Thimo's variation on the default Light Modern theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Light Modern Thimo",
+        "uiTheme": "vs",
+        "path": "./themes/Light Modern Thimo-color-theme.json"
+      }
+    ]
+  }
+}
